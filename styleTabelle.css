@@ -1,0 +1,56 @@
+* {
+ box-sizing: border-box;
+font-size: 1rem;
+font-family: sans-serif;
+}
+
+
+
+
+
+table.content{
+    border-collapse: collapse;
+    margin: 52px 0;
+    min-width: 500px;
+    border-radius: 15px 5px 0 0;
+    overflow: hidden;
+}
+
+table.content thead tr{
+    background-color: darkorange;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+table.content th,
+table.content td {
+    padding: 12px 16px;
+}
+
+table.content tbody tr{
+    border-bottom: 1px solid #ccc;
+}
+
+table.content tbody tr:last-of-type{
+    border-bottom: 2px solid darkorange;
+}
+
+
+table.content tbody tr.active{
+    font-weight: bold;
+    color: darkorange;
+   
+}
+
+
+
+
+
+body {
+    
+    width:  800px;
+    
+    margin: 0 auto;
+}
