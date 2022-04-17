@@ -13,7 +13,7 @@ body{
     margin: 40px;
 }
 
-table_verein p4{
+.table_verein{
     max-width: 900px;
     border: 1px solid red;
     background-color: #efefef33;
@@ -49,12 +49,12 @@ table th, table td{
 
 table>tbody>tr>td>img{
     display: inline-block;
-    width: 90px;
-    height: 110px;
+    width: 70px;
+    height: 70px;
     object-fit: cover;
-    border-radius: 25%;
+    border-radius: 50%;
     border: 3px solid #fff;
-    box-shadow: -5 10px 10px #0003;
+    box-shadow: 0 2px 6px #0003;
 }
 
 table>tbody>tr{
@@ -140,14 +140,14 @@ table tbody tr.active{
  	height: 700px;
  	z-index: 0;
  	
- 	background:url("Bilder/IMG_1306.JPG");
+ 	background:url(Hintergrund.jpg);
  	background-size: cover;
  	}
  
  #banner h1{
  	padding-top: 250px;
  	text-align: center;
- 	color: #b2e763;
+ 	color: #ffff00;
  	font-size: 6em;
  	font-family: Streetwear;
  
