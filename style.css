@@ -14,6 +14,7 @@ body{
 }
 
 .table_verein{
+	font-size: 3.5em;
     max-width: 900px;
     border: 1px solid red;
     background-color: #efefef33;
