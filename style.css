@@ -22,8 +22,8 @@ body {
 	border: 2px solid red;
 	background-color: #efefef33;
 	padding: auto; 
-	overflow:hidden; 
-/*	overflow: auto; */
+/*	overflow:hidden; */
+	overflow: auto; 
 	margin: auto; 
 	border-radius: 10px;
 
