@@ -16,8 +16,8 @@ body {
 
 .table_verein {
 	font-size: 3.5em;
-	min-width: 500px;
-	max-width: 900px;
+	min-width: 800px;
+/*	max-width: 900px; */
 	border: 1px solid red;
 	background-color: #efefef33;
 	padding: auto;
