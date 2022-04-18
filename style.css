@@ -90,7 +90,7 @@ table tbody tr.active {
 }
 
 .ImpresT{
-	width: 400px;
+	width: 250px;
 	max-width: 90%;
 	margin: 0 auto;
 }
@@ -230,7 +230,7 @@ p {
  	*/
 
 
-#Vorst h4 {
+#Vorst h2 {
 	padding-top: 20px;
 	text-align: left;
 	color: #375c27;
@@ -244,4 +244,9 @@ p {
 	color: #0c0c0c;
 	font-size: 1em;
 	font-family: Streetwear;
+}
+
+#Vorst a {
+	text-align: left;
+	color: #b80909;
 }
