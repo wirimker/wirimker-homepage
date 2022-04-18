@@ -12,9 +12,21 @@
 } */
 
 
+
+
+.wrapppper {
+	width: 450px;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
+
+
+
 table.content {
 	border-collapse: collapse;
-	margin: 52px 0;
+	margin: 10px 0;
 	min-width: 450px;
 	border-radius: 15px 5px 0 0;
 	overflow: hidden;
@@ -49,7 +61,7 @@ table.content tbody tr.active {
 }
 
 #EinlTermine h4 {
-	padding-top: 10px;
+	padding-left: 10px; 
 	text-align: left;
 	color: #375c27;
 	font-size: 1.5em;
@@ -57,7 +69,7 @@ table.content tbody tr.active {
 }
 
 #EinlTermine p {
-	padding-top: 10px;
+	padding-left: 10px;
 	text-align: left;
 	color: #0c0c0c;
 	font-size: 1em;
@@ -65,9 +77,9 @@ table.content tbody tr.active {
 }
 
 
-body {
+/*body {
 
 	width: 450px;
 
 	margin: 0 auto;
-}
+}*/
