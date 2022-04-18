@@ -4,18 +4,18 @@
 	font-family: sans-serif;
 }
 
-
+/*
 #box1 {
 	width: 450px;
 	text-align: left;
 	padding-left: 10px;
-}
+} */
 
 
 table.content {
 	border-collapse: collapse;
 	margin: 52px 0;
-	min-width: 500px;
+	min-width: 450px;
 	border-radius: 15px 5px 0 0;
 	overflow: hidden;
 }
@@ -48,8 +48,21 @@ table.content tbody tr.active {
 
 }
 
+#EinlTermine h4 {
+	padding-top: 20px;
+	text-align: left;
+	color: #375c27;
+	font-size: 1.5em;
+	font-family: Streetwear;
+}
 
-
+#EinlTermine p {
+	padding-top: 20px;
+	text-align: left;
+	color: #0c0c0c;
+	font-size: 1em;
+	font-family: Streetwear;
+}
 
 
 body {
