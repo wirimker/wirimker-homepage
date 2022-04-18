@@ -17,14 +17,14 @@ body {
 .table_verein {
 	font-size: 1.5em;
 	width: 800px;
-/*	min-width: 800px; */
-/*	max-width: 900px; */
+	/*	min-width: 800px; */
+	/*	max-width: 900px; */
 	border: 1px solid red;
 	background-color: #efefef33;
-	
-/*	padding: auto; */
-/*	overflow: auto; */
-/*	margin: auto; */
+
+	/*	padding: auto; */
+	/*	overflow: auto; */
+	/*	margin: auto; */
 	border-radius: 10px;
 
 
@@ -61,7 +61,7 @@ table > tbody > tr > td > img {
 	width: 120%;
 	height: 100%;
 	width: 150px;
-	height: 150px; 
+	height: 150px;
 	object-fit: cover;
 	border-radius: 50%;
 	border: 3px solid #fff;
@@ -77,8 +77,7 @@ table > tbody > tr {
 table tbody tr.active {
 	font-size: 3, 5em;
 	font-weight: bold;
-	color: crimson;
-/*	color: #85670e;*/
+	color: #85670e;
 	background-color: #efefcc
 }
 
