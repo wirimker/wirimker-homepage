@@ -21,9 +21,9 @@ body {
 	max-width: 960px; 
 	border: 2px solid red;
 	background-color: #efefef33;
-	padding: auto; 
+/*	padding: auto; */
 /*	overflow:hidden; */
-	overflow: auto; 
+/*	overflow: auto; */
 	margin: auto; 
 	border-radius: 10px;
 
@@ -75,7 +75,7 @@ table > tbody > tr {
 
 
 table tbody tr.active {
-	font-size: 1.25em;
+	font-size: 1em;
 	font-weight: bold;
 	color: #85670e;
 	background-color: #efefcc
