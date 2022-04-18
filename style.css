@@ -52,16 +52,16 @@ table th,
 table td {
 	size: 2em;
 	border: 1px solid #e7b912;
-	padding: 2px 1px;
+	padding: 5px 5px;
 	/*padding: 10px 15px; */
 }
 
 table > tbody > tr > td > img {
 	display: inline-block;
-	width: 100%;
+	width: 120%;
 	height: 100%;
-	/*width: 70px;
-	height: 70px; */
+	width: 150px;
+	height: 150px; 
 	object-fit: cover;
 	border-radius: 50%;
 	border: 3px solid #fff;
