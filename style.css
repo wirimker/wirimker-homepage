@@ -238,3 +238,27 @@ p {
 	font-size: 1em;
 	font-family: Streetwear;
 }
+
+.Impres {
+	width: 450px;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
+
+#ImpressText h4 {
+	padding-top: 20px;
+	text-align: left;
+	color: #375c27;
+	font-size: 1.5em;
+	font-family: Streetwear;
+}
+
+#ImpressText p {
+	padding-top: 20px;
+	text-align: left;
+	color: #0c0c0c;
+	font-size: 1em;
+	font-family: Streetwear;
+}
