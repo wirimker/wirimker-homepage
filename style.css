@@ -1,6 +1,7 @@
 /*ALLGEMEIN */
 
 * {
+	max-width: 960px;
 	margin: 0;
 	padding: 0;
 	font-size: 1em;
@@ -16,50 +17,48 @@ body {
 
 
 #navigation {
-	position: fixed; 
+	position:sticky;
 	top: 0;
 	z-index: 10;
 	width: 100%;
 	height: 100px;
-text-align: center;
-	background-color: rgba(244, 249, 153, 0.824)
-		
-		
+	text-align: center;
+	background-color:      rgba(244, 249, 153, 0.01);
 }
 
 
 wrapper {
-	max-width: 960px;
+	max-width: 60px;
 	max-width: 95%;
 	margin: 0 auto;
 }
 
 
 
-table_verein p4{
-    max-width: 900px;
-    border: 1px solid red;
-    background-color: #efefef33;
-    padding: auto;
-    overflow: auto;
-    margin: auto;
-    border-radius: 10px;
+table_verein p4 {
+	max-width: 900px;
+	border: 1px solid red;
+	background-color: #efefef33;
+	padding: auto;
+	overflow: auto;
+	margin: auto;
+	border-radius: 10px;
 }
 
 
 
 
 .table_verein {
-/*	font-size: 1.5em; */
-/*	width: 960px; */
+	/*	font-size: 1.5em; */
+	/*	width: 960px; */
 	/*	min-width: 800px; */
-	max-width:600px; 
+	max-width: 600px;
 	border: 2px solid red;
-	background-color:#efefef33;
-	padding: auto; 
-	overflow:hidden; 
-	overflow: auto; 
-	margin: auto; 
+	background-color: #efefef33;
+	padding: auto;
+	overflow: hidden;
+	overflow: auto;
+	margin: auto;
 	border-radius: 10px;
 
 
@@ -86,7 +85,8 @@ table > thead th {
 	font-size: 1em;
 }
 
-table th, table td {
+table th,
+table td {
 	size: 1em;
 	border: 1px solid #e7b912;
 	padding: 5px 5px;
@@ -95,11 +95,11 @@ table th, table td {
 
 table > tbody > tr > td > img {
 	display: inline-block;
-  	height: 100%;
+	height: 100%;
 	width: 120px;
 	height: 150px;
 	object-fit: cover;
-/*	border-radius: 50%; */
+	/*	border-radius: 50%; */
 	border: 3px solid #fff;
 	box-shadow: 0 2px 6px #0003;
 }
@@ -119,7 +119,7 @@ table tbody tr.active {
 
 
 
-.ImpresT{
+.ImpresT {
 	max-width: 900px;
 	max-width: 100%;
 	margin: 0 auto;
@@ -134,10 +134,10 @@ table tbody tr.active {
 
 
 #logo {
-	top:55;
+	top: 55;
 	width: 50px;
-	height: 150px;
-	float:inherit;
+	height: 50px;
+	float: inherit;
 	margin: 20px;
 }
 
@@ -152,19 +152,19 @@ table tbody tr.active {
 
 #logo {
 	display: block;
-	width: 30%;
-	height: 72px;
+	width: 70%;
+	height: 102px;
 	background: url(Logo.jpg);
 	background-size: cover;
 	margin-left: auto;
-	margin-right: auto;	
-	}
+	margin-right: auto;
+}
 
 #menu {
-	float:inherit;
+	float: inherit;
 	margin-top: 44px;
 	margin: 30px;
-	}
+}
 
 #menu a {
 	padding-right: 30px;
@@ -179,19 +179,24 @@ table tbody tr.active {
 }
 
 #banner {
-	width: 100%;
-	height: 100px;
+/*display: block;*/
+	height: 500px;
 	z-index: 0;
 
 	background: url(Hintergrund.jpg);
-	background-size: cover;
+		background-size: cover;
+	max-width: 960px;
+	width: 100%;
+	height; 550px;
+	height: 100%;
+	/*	background-size:cover; */
 }
 
 #banner h1 {
 	padding-top: 10px;
 	text-align: center;
 	color: #ffff00;
-	font-size: 5em;
+	font-size: 4em;
 	font-family: Streetwear;
 
 }
@@ -200,9 +205,9 @@ table tbody tr.active {
 	margin-top: 50px;
 }
 
- html {
+html {
 	text-align: left;
-} 
+}
 
 button {
 	margin-top: 10px;
@@ -221,7 +226,7 @@ button {
 button:hover {
 	color: #006400;
 	background-color: #FFF;
-	float:inherit;
+	float: inherit;
 }
 
 transfor: translate(0px, 10px);
@@ -232,8 +237,9 @@ box-shadow: 0px 30px 15px -10px rgba(0, 0, 0, 0.2) h1 {
 }
 
 h2 {
+	margin-top: 500px;
 	color: blue;
-	background-color: #46c22d
+	background-color: #a933bc;
 }
 
 p {
@@ -257,10 +263,10 @@ p {
 
 
 #Vorst h2 {
-	max-width: 960px;
+	max-width: 900px;
 	padding-top: 20px;
 	text-align: left;
-	color:#180999;  
+	color: #180999;
 	background-color: white;
 	font-size: 1.5em;
 	font-family: Streetwear;
@@ -279,5 +285,5 @@ p {
 	color: #8b3a08;
 	text-align: start;
 	font-size: 1em;
-	
+
 }
