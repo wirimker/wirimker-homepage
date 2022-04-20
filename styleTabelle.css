@@ -15,7 +15,7 @@
 
 
 .wrapppper {
-	max-width: 450px;
+	max-width: 600px;
 	max-width: 95%;
 	margin: 0 auto;
 }
@@ -58,7 +58,7 @@ table.content tbody tr.active {
 }
 
 #EinlTermine h4 {
-	padding-left: 10px; 
+	padding-left: 5px; 
 	text-align: left;
 	color: #375c27;
 	font-size: 1.5em;
@@ -66,7 +66,8 @@ table.content tbody tr.active {
 }
 
 #EinlTermine p {
-	padding-left: 10px;
+	max-width: 900px;
+	padding-left: 5px;
 	text-align: left;
 	color: #0c0c0c;
 	font-size: 1em;
