@@ -84,7 +84,7 @@ table tbody tr.active {
 
 
 .wrapper {
-	width: 960px;
+	max-width: 960px;
 	max-width: 90%;
 	margin: 0 auto;
 }
@@ -247,8 +247,9 @@ p {
 	font-family: Streetwear;
 }
 
- a {
+#Vorst a {
 	color: #8b3a08;
-	text-align: left;
-	font-size: 1em;	
+	text-align: start;
+	font-size: 1em;
+	
 }
