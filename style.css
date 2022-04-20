@@ -15,6 +15,16 @@ body {
 }
 
 
+#navigation {
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+	height: 100px;
+
+	background-color: rgba(244, 249, 153, 0.824)
+}
+
 
 wrapper {
 	max-width: 960px;
@@ -119,15 +129,7 @@ table tbody tr.active {
 /*Navigation*/
 
 
-#navigation {
-	position: fixed;
-	top: 0;
-	z-index: 10;
-	width: 100%;
-	height: 100px;
 
-	background-color: rgba(244, 249, 153, 0.824)
-}
 
 #logo {
 	top: 55;
