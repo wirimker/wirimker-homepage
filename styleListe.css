@@ -36,8 +36,10 @@ h1{
 	color: red;
 	background-color: green}
 h2{
+	text-align: center;
 	color: blue;
-	background-color: rgba( 224, 241, 125, 0.327 )}
+	background-color: #47f707; }
+	
 p{
 	color: navy;
     text-align: left;
