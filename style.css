@@ -14,21 +14,47 @@ body {
 	margin: 50px;
 }
 
+
+
+wrapper {
+	max-width: 960px;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
+
+table_verein p4{
+    max-width: 900px;
+    border: 1px solid red;
+    background-color: #efefef33;
+    padding: auto;
+    overflow: auto;
+    margin: auto;
+    border-radius: 10px;
+}
+
+
+
+
 .table_verein {
-	font-size: 1.5em;
+/*	font-size: 1.5em; */
 /*	width: 960px; */
 	/*	min-width: 800px; */
-	max-width: 960px; 
+	max-width:600px; 
 	border: 2px solid red;
-	background-color: #efefef33;
-/*	padding: auto; */
-/*	overflow:hidden; */
-/*	overflow: auto; */
+	background-color:#efefef33;
+	padding: auto; 
+	overflow:hidden; 
+	overflow: auto; 
 	margin: auto; 
 	border-radius: 10px;
 
 
 }
+
+
+
 
 table {
 	max-width: 960px;
@@ -48,9 +74,8 @@ table > thead th {
 	font-size: 1em;
 }
 
-table th,
-table td {
-	size: 2em;
+table th, table td {
+	size: 1em;
 	border: 1px solid #e7b912;
 	padding: 5px 5px;
 	/*padding: 10px 15px; */
@@ -58,8 +83,7 @@ table td {
 
 table > tbody > tr > td > img {
 	display: inline-block;
-	width: 120%;
-	height: 100%;
+  	height: 100%;
 	width: 120px;
 	height: 150px;
 	object-fit: cover;
@@ -82,12 +106,6 @@ table tbody tr.active {
 }
 
 
-
-.wrapper {
-	max-width: 960px;
-	max-width: 90%;
-	margin: 0 auto;
-}
 
 .ImpresT{
 	max-width: 500px;
@@ -175,9 +193,9 @@ table tbody tr.active {
 	margin-top: 50px;
 }
 
-html {
-	text-align: center;
-}
+ html {
+	text-align: left;
+} 
 
 button {
 	margin-top: 23px;
@@ -233,13 +251,14 @@ p {
 #Vorst h2 {
 	padding-top: 20px;
 	text-align: left;
-	color:black;  
+	color:#180999;  
 	background-color: white;
 	font-size: 1.5em;
 	font-family: Streetwear;
 }
 
 #Vorst p {
+	max-width: 960px;
 	padding-top: 20px;
 	text-align: left;
 	color: #0c0c0c;
