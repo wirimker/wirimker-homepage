@@ -30,7 +30,7 @@ body {
 wrapper {
 	max-width: 60px;
 	max-width: 95%;
-	/*	margin: 0 auto;*/
+	margin: 0 auto;
 }
 
 
@@ -247,6 +247,7 @@ table tbody tr.active {
  	
  	background:url("Bilder/IMG_1306.JPG");
  	background-size: cover;
+	opacity: 0,01; 
  	}
  
  #banner h2{
@@ -356,4 +357,15 @@ p {
 	text-align: start;
 	font-size: 1em;
 
+}
+
+
+#Home_Top h2{
+	max-width: 900px;
+	padding-top: 1000px;
+	text-align: left;
+	color: #180999;
+	background-color: white;
+	font-size: 1.5em;
+	font-family: Streetwear;
 }
