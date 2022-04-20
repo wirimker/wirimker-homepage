@@ -90,7 +90,7 @@ table tbody tr.active {
 }
 
 .ImpresT{
-	width: 360px;
+	width: 500px;
 	max-width: 90%;
 	margin: 0 auto;
 }
@@ -145,7 +145,7 @@ table tbody tr.active {
 	padding-right: 30px;
 	padding-top: 35px;
 	text-decoration: none;
-	color: #274e71;
+	color: #082b8b;
 	font-weight: 700;
 }
 
@@ -207,7 +207,7 @@ box-shadow: 0px 30px 15px -10px rgba(0, 0, 0, 0.2) h1 {
 
 h2 {
 	color: blue;
-	background-color: rgba(224, 241, 125, 0.327)
+	background-color: #46c22d
 }
 
 p {
@@ -233,7 +233,8 @@ p {
 #Vorst h2 {
 	padding-top: 20px;
 	text-align: left;
-	color: #375c27;
+	color:black;  
+	background-color:#a058ed;
 	font-size: 1.5em;
 	font-family: Streetwear;
 }
@@ -242,11 +243,12 @@ p {
 	padding-top: 20px;
 	text-align: left;
 	color: #0c0c0c;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-family: Streetwear;
 }
 
-#Vorst a {
+ a {
+	color: #8b3a08;
 	text-align: left;
-	color: #b80909;
+	font-size: 1em;	
 }
