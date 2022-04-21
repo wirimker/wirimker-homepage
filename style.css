@@ -167,7 +167,7 @@ table tbody tr.active {
 
 #logo {
     width: 30%;
-	height: 72px;
+	height: 75px;
     background:url(Logo.jpg);
  	background-size: cover;
 }
@@ -176,7 +176,7 @@ table tbody tr.active {
 
 #menu {
 	float: inherit;
-	margin-top: 44px;
+	margin-top: 45px;
 	margin: 30px;
 }
 
@@ -249,11 +249,13 @@ table tbody tr.active {
  	
  	background:url("Bilder/IMG_1306.JPG");
  	background-size: cover;
-	opacity: 0,01; 
+	opacity: 0.96; 
  	}
  
+
+
  #banner h2{
- 	padding-top: 250px;
+ 	padding-top: 240px;
  	text-align: center;
  	color:#c60505;
  	font-size: 6em;
