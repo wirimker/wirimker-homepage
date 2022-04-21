@@ -10,9 +10,11 @@
 	box-sizing: border-box;
 }
 
-
 body {
 	margin: 5px;
+	max-width: 960px;
+	max-width: 95%;
+	margin: 10px;
 }
 
 
