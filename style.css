@@ -241,7 +241,7 @@ table tbody tr.active {
 
 
 */
-
+/*
 #banner {
  	width: 100%;
  	height: 700px;
@@ -249,10 +249,14 @@ table tbody tr.active {
  	
  	background:url("Bilder/IMG_1306.JPG");
  	background-size: cover;
-	opacity: 0.96; 
+	opacity: 0.; 
  	}
- 
+ */
 
+img{
+	max-width:960px;
+	height: auto;
+	}
 
  #banner h2{
  	padding-top: 240px;
