@@ -61,10 +61,11 @@ figcaption {
 	transition: all 1s ease;
 }
 
-
+/*minmax(15) gibt die Anzahl der Bilder nerbeneinander vor 15em entspricht 3, keine Angabe untereinander
+gap: Abstand Bilder*/
 #gallery {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(em, 1fr));
 	gap: 1em;
 }
 
