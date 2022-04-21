@@ -314,6 +314,18 @@ p {
 	background-color: brown
 }
 
+#Home_Top p{
+	padding-top:100	px;
+	color:currentColor;
+	font-size: 1.5em;
+}
+
+#Home_Top a{
+	padding-top:100	px;
+	color:currentColor;
+	font-size: 1.5em;
+}
+
 
 
 /*
@@ -361,11 +373,33 @@ p {
 
 
 #Home_Top h2{
-	max-width: 900px;
-	padding-top: 1000px;
+	max-width: 970px;
+	padding-top: 770px;
 	text-align: left;
 	color: #180999;
 	background-color: white;
 	font-size: 1.5em;
-	font-family: Streetwear;
+	font-family: Streetwear;  
 }
+
+/*
+#Home_Top h2{
+	padding-top:0
+		px;
+	color: green;
+	background-color: brown
+} */
+
+
+#Home_Top p{
+	padding-top:20px;
+	color:currentColor;
+	font-size: 1.5em;
+}
+
+#Home_Top a{
+	padding-top:100	px;
+	color:darkblue;
+	font-size: 1.5em;
+	font-weight: bold;
+		}
