@@ -28,7 +28,7 @@ body {
 
 
 wrapper {
-	max-width: 60px;
+	max-width: 900px;
 	max-width: 95%;
 	margin: 0 auto;
 }
@@ -333,7 +333,7 @@ p {
 
 
 
-#Vorst h4 {
+#Vorst h2 {
 	max-width: 900px;
 	padding-top: 20px;
 	text-align: left;
@@ -354,7 +354,7 @@ p {
 
 #Vorst a {
 	color: #8b3a08;
-	text-align: start;
+	text-align: left;
 	font-size: 1em;
 
 }
