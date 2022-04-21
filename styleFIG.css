@@ -1,10 +1,17 @@
 
-
+head{
+	max-width: 960px;
+	margin: 5px;
+}
 
 .wrapper {
 	width: 960px;
-	max-width: 90%;
+	max-width: 95%;
 	margin: 0 auto;
+	}
+
+#Einl {
+	max-width: 960px;
 	}
 
 
@@ -12,14 +19,15 @@
     padding-top: 10px;
  	text-align: center;
  	color: #0c0c0c;
- 	font-size: 1em;
+ 	font-size: 1.5em;
  	font-family: Streetwear;
 }
 
 #Einl h3{
   padding-top: 1px;
  	text-align: center;
-    color: #ccac00;
+	color: #d14f13;
+  /*  color: #ccac00; */
  	font-size: 2em;
  	font-family: Streetwear;  
 }
@@ -40,6 +48,18 @@
  	font-family: Streetwear;
 }
 
+#Einl h2{
+ 	padding-top: 1px;
+ 	text-align: center;
+ 	color: #830af4;
+ 	font-size: 2em;
+ 	font-family: Streetwear;
+}
+
+img{
+	max-width:960px;
+	height: auto;
+	}
 
 
 figure,
