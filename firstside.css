@@ -32,6 +32,15 @@ max-width: 960px;
 	margin: 5px;
 }
 
+ #banner h2{
+ 	padding-top: 25px;
+ 	text-align: center;
+ 	color:#c60505;
+ 	font-size: 6em;
+ 	font-family: Streetwear;
+ 
+ }	
+
 
 button {
 	float:inherit;
