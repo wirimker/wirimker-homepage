@@ -23,7 +23,7 @@ body {
 	top: 0;
 	z-index: 10;
 	width: 100%;
-	height: 120px;
+	height: 160px;
 	text-align: center;
 	background-color: rgba(244, 249, 153, 0.901);
 }
@@ -133,15 +133,21 @@ table tbody tr.active {
 /*Navigation*/
 
 
-
+/*
 
 #logo {
 	top: 50;
 	width: 50px;
-	height: 50px;
-	float: left;
-	margin: 10px;
-}
+	height: 75px;
+	float:;
+	margin: 5px;
+	width: 30%;
+	background:url(Logo.jpg);
+ 	background-size: cover;
+	padding-right: 0;
+} */
+
+
 
 
 /* #logo p {
@@ -153,24 +159,20 @@ table tbody tr.active {
    	}	*/
 
 
-/*
+
 #logo {
 	display: block;
+	margin: 5px;
 	width: 50%;
-	height: 100px;
+	height: 50%;
+	height: 80px;
 	background: url(Logo.jpg);
 	background-size: cover;
 	margin-left: auto;
 	margin-right: auto; 
-} */
+} 
 
 
-#logo {
-    width: 30%;
-	height: 75px;
-    background:url(Logo.jpg);
- 	background-size: cover;
-}
 
 
 
@@ -253,13 +255,9 @@ table tbody tr.active {
  	}
  */
 
-img{
-	max-width:960px;
-	height: auto;
-	}
 
  #banner h2{
- 	padding-top: 240px;
+ 	padding-top: 25px;
  	text-align: center;
  	color:#c60505;
  	font-size: 6em;
@@ -314,13 +312,6 @@ opacity: 0,01; }
 p {
 	color: navy;
 	text-align: left; }
-
-#Home_Top h2{
-	padding-top:0
-		px;
-	color: green;
-	background-color: brown
-}
 
 #Home_Top p{
 	padding-top:100	px;
@@ -382,13 +373,14 @@ p {
 
 #Home_Top h2{
 	max-width: 970px;
-	padding-top: 770px;
+	padding-top: 800px;
 	text-align: left;
 	color: #180999;
 	background-color: white;
 	font-size: 1.5em;
 	font-family: Streetwear;  
 }
+
 
 /*
 #Home_Top h2{

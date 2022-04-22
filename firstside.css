@@ -1,0 +1,76 @@
+/*ALLGEMEIN */
+
+* {
+	max-width: 960px;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+
+	font-family: Levenim MT;
+	}
+
+
+.box{
+	width: 600px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+
+#navigation{
+
+	width: 100%;
+	height: 150px;
+	background-color: rgba(244, 249, 153, 0.901);
+}
+
+
+button {
+	float:inherit;
+	margin-top: 2px;
+	padding: 2px 10px;
+	color: #0a429e;
+	background-color: #ffd700;
+	box-shadow: 0px 17px 10px -7px rgba(0, 0, 0, 0.4);
+	border: solid 3px #006400;
+	border-radius: 3px;
+	font-size:30px;
+	text-align: center;
+	transition: ease-in-out all 300ms;
+	
+
+}
+
+button:hover {
+	color: #006400;
+	background-color: #FFF;
+	
+}
+
+
+body {
+	margin: 5px;
+	max-width: 960px;
+	max-width: 95%;
+	margin: 5px;
+}
+
+
+
+
+#logo {
+	display: block;
+	margin: 10px;
+	width: 50%;
+	height: 50%;
+	height: 80px;
+	background: url(Logo.jpg);
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto; 
+} 
+
+ 	
