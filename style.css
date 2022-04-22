@@ -22,7 +22,7 @@ body {
 	position: fixed;
 	top: 0;
 	z-index: 10;
-	width: 100%;
+	width: 90%;
 	height: 160px;
 	text-align: center;
 	background-color: rgba(244, 249, 153, 0.01);
@@ -31,7 +31,7 @@ body {
 
 wrapper {
 	max-width: 900px;
-	max-width: 95%;
+	max-width: 90%;
 	margin: 0 auto;
 }
 
@@ -140,27 +140,29 @@ table tbody tr.active {
 	background: url(Logo.jpg);
 	background-size: cover;
 	margin-left: auto;
-	margin-right: auto; 
-} 
-
-.homepagebild{
-	position:relative;
+	margin-right: auto;
 }
 
-.homepagebild img{
-	max-width: 100%;
+.homepagebild {
+	position: relative;
+}
+
+.homepagebild img {
+	max-width: 600px;
+	max-width: 90%;
 	height: auto;
 
 }
 
-.banner-text{
+.banner-text {
 	position: absolute;
 	top: 25%;
 	color: #5a2a00;
-	padding:50px;
+	padding: 10px;
 	font-size: 4em;
-	
+
 }
+
 
 
 #menu {
@@ -208,14 +210,14 @@ table tbody tr.active {
  */
 
 
- #banner h2{
- 	padding-top: 25px;
- 	text-align: center;
- 	color:#c60505;
- 	font-size: 6em;
- 	font-family: Streetwear;
- 
- }	
+#banner h2 {
+	padding-top: 25px;
+	text-align: center;
+	color: #c60505;
+	font-size: 6em;
+	font-family: Streetwear;
+
+}
 
 
 #content {
@@ -234,7 +236,7 @@ button {
 	box-shadow: 0px 17px 10px -7px rgba(0, 0, 0, 0.4);
 	border: solid 3px #006400;
 	border-radius: 3px;
-	font-size:35px;
+	font-size: 35px;
 	text-align: center;
 	transition: ease-in-out all 300ms;
 
@@ -255,25 +257,27 @@ box-shadow: 0px 30px 15px -10px rgba(0, 0, 0, 0.2) h1 {
 
 h2 {
 	padding-top: 10px;
-/*	color: blue;*/
-	
-	background-color:transparent;
-opacity: 0,01; }
+	/*	color: blue;*/
+
+	background-color: transparent;
+	opacity: 0, 01;
+}
 
 
 p {
 	color: navy;
-	text-align: left; }
+	text-align: left;
+}
 
-#Home_Top p{
-	padding-top:100	px;
-	color:currentColor;
+#Home_Top p {
+	padding-top: 100 px;
+	color: currentColor;
 	font-size: 1.5em;
 }
 
-#Home_Top a{
-	padding-top:100	px;
-	color:currentColor;
+#Home_Top a {
+	padding-top: 100 px;
+	color: currentColor;
 	font-size: 1.5em;
 }
 
@@ -308,14 +312,14 @@ p {
 }
 
 
-#Home_Top h2{
+#Home_Top h2 {
 	max-width: 970px;
 	padding-top: 800px;
 	text-align: left;
 	color: #180999;
 	background-color: white;
 	font-size: 1.5em;
-	font-family: Streetwear;  
+	font-family: Streetwear;
 }
 
 
@@ -328,15 +332,15 @@ p {
 } */
 
 
-#Home_Top p{
-	padding-top:20px;
-	color:currentColor;
+#Home_Top p {
+	padding-top: 20px;
+	color: currentColor;
 	font-size: 1.5em;
 }
 
-#Home_Top a{
-	padding-top:100	px;
-	color:crimson;
+#Home_Top a {
+	padding-top: 100 px;
+	color: crimson;
 	font-size: 1.5em;
 	font-weight: bold;
-		}
+}
