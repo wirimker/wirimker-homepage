@@ -157,9 +157,8 @@ table tbody tr.active {
 .banner-text {
 	position: absolute;
 	top: 25%;
-	color: #5a2a00;
-	background-color:#f8da58;
-	padding: 10px;
+	color: #4903c2;
+		padding: 10px;
 	font-size: 4em;
 
 }
