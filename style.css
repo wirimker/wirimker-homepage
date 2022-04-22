@@ -269,17 +269,14 @@ p {
 	text-align: left;
 }
 
+
+
 #Home_Top p {
 	padding-top: 100 px;
 	color: currentColor;
 	font-size: 1.5em;
 }
 
-#Home_Top a {
-	padding-top: 100 px;
-	color: currentColor;
-	font-size: 1.5em;
-}
 
 
 
@@ -313,7 +310,7 @@ p {
 
 
 #Home_Top h2 {
-	max-width: 970px;
+	max-width: 960px;
 	padding-top: 800px;
 	text-align: left;
 	color: #180999;
@@ -330,7 +327,23 @@ p {
 	color: green;
 	background-color: brown
 } */
+#Home_End h2{
+	max-width: 900px;
+	font-size: 2em;
+}
 
+#Home_End p{
+	max-width: 900px;
+	font-size: 1.5em;
+	color:#16161c
+}
+
+
+#Home_End a{
+	max-width: 900px;
+	font-size: 1.5em;
+	color: blue;
+}
 
 #Home_Top p {
 	padding-top: 20px;
@@ -344,3 +357,4 @@ p {
 	font-size: 1.5em;
 	font-weight: bold;
 }
+

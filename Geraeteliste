@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+	<title> Website Imkerverein Schwanenstadt</title>
+	<meta charset="utf8">
+	<link href="styleListe.css" type="text/css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+	
+  
+	
+	<div class="wrapper">
+        
+            
+        
+        
+     <h2> Geräteliste</h2>
+    
+     <p>
+        Nachfolgend findet ihr unsere Geräte, die wir unseren Mitgliedern bereitstellen können.
+        </p>   
+<br>
+  
+  
+<ul>
+	<li>Oxamat (Modell Alfranseder)</li>
+	<li>Varrox-Oxalsäureverdampfer - Betrieb mit 12 V-Batterie</li>
+	<li>Oxalsäureverdampfer - Betrieb mit Butan-Gas-Kartusche</li>
+    <li>Dampfwachsschmelzer 220V / 2000W</li>
+    <li>Mittelwandpresse (Zinn-Prägeplatte)</li>
+    <li> Behälter mit Thermostat zum Wachswarmhalten</li>
+    <li>Verschiedene Schablonen zum Wachszuschneiden</li>
+    <li> geeichte Waage</li>
+    <li>Fachliteratur</li>
+</ul>  
+       
+   <br>     
+<p>Nehmt bei Interresse Kontakt mit Josef Zankl auf <a href="tel:+04376736449">07673 6449</a></p>
+
+<br>
+<p> Eine genaue Auflistung der Fachliteratur ist in Ausarbeitung. </p>        
+        
+        <br>
+ <a href="Homepage-Startseite.html"> wieder   auf Startseite</a>	       
+	</div> <!-- wrapper -->
+    
+    
+	
+
+	
+	
+</body>	
+
+</html>
