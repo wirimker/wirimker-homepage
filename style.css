@@ -25,7 +25,7 @@ body {
 	width: 100%;
 	height: 160px;
 	text-align: center;
-	background-color: rgba(244, 249, 153, 0.401);
+	background-color: rgba(244, 249, 153, 0.01);
 }
 
 
@@ -130,35 +130,6 @@ table tbody tr.active {
 
 
 
-/*Navigation*/
-
-
-/*
-
-#logo {
-	top: 50;
-	width: 50px;
-	height: 75px;
-	float:;
-	margin: 5px;
-	width: 30%;
-	background:url(Logo.jpg);
- 	background-size: cover;
-	padding-right: 0;
-} */
-
-
-
-
-/* #logo p {
- 	font-family: Streetwear;
- 	font-size: 1eft;
- 	line-height: 2.5;
- 	
- 	color: #274e71;
-   	}	*/
-
-
 
 #logo {
 	display: block;
@@ -172,8 +143,24 @@ table tbody tr.active {
 	margin-right: auto; 
 } 
 
+.homepagebild{
+	position:relative;
+}
 
+.homepagebild img{
+	max-width: 100%;
+	height: auto;
 
+}
+
+.banner-text{
+	position: absolute;
+	top: 25%;
+	color: #5a2a00;
+	padding:50px;
+	font-size: 4em;
+	
+}
 
 
 #menu {
@@ -196,44 +183,9 @@ table tbody tr.active {
 
 
 
-/*
-
-#banner {
-	/*display: block;*/
-	/*z-index: 0;*/
-	/*padding-top: 50px;
-	padding-left: 100px
-			background-image: url(Hintergrund.jpg);
-	background-size: cover;
-	
-
-	background-position: center center; 
-	width: 90px;
-	padding-top: 100px;
-/*	
-	max-width: 960px; */
-/*	height: 30%;
-	position: fixed; 
-
-		/*	background-size:cover; */
-/*}*/
-/*#banner:after{
-	content: ' ';
-	position: absolute;
-	top: 0;
-	left: 0;
-	display: block;
-	width: 100%;
-	height: 100%;
-	background: #151313;
-	opacity: .02;
-	z-index: -1;
-	
-}*/
-
 
 #banner h1 {
-	padding-top: 220px;
+	padding-top: 1220px;
 	text-align: center;
 	color: #ffff00;
 	font-size: 4em;
@@ -325,21 +277,6 @@ p {
 	font-size: 1.5em;
 }
 
-
-
-/*
-#logo {
-	width: 0px;
-	height: 60px;
-	float: left;
-	margin: 20px;
-	}
-#logo p{
-	font-family: Streetwear;
-	font-size: 3em;
-	line-height: 1.5;
-	}	
- 	*/
 
 
 
