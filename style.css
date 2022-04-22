@@ -25,7 +25,7 @@ body {
 	width: 100%;
 	height: 160px;
 	text-align: center;
-	background-color: rgba(244, 249, 153, 0.901);
+	background-color: rgba(244, 249, 153, 0.401);
 }
 
 
@@ -231,9 +231,9 @@ table tbody tr.active {
 	
 }*/
 
-/*
+
 #banner h1 {
-	padding-top: 20px;
+	padding-top: 220px;
 	text-align: center;
 	color: #ffff00;
 	font-size: 4em;
@@ -242,7 +242,7 @@ table tbody tr.active {
 }
 
 
-*/
+
 /*
 #banner {
  	width: 100%;
@@ -282,7 +282,7 @@ button {
 	box-shadow: 0px 17px 10px -7px rgba(0, 0, 0, 0.4);
 	border: solid 3px #006400;
 	border-radius: 3px;
-	font-size:30px;
+	font-size:35px;
 	text-align: center;
 	transition: ease-in-out all 300ms;
 
