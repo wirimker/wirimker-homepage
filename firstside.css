@@ -1,5 +1,11 @@
 /*ALLGEMEIN */
 
+
+head{
+	max-width: 960px;
+	padding: 5px;
+}
+
 * {
 	max-width: 960px;
 	margin: 0;
