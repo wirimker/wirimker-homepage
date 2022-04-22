@@ -28,23 +28,23 @@ max-width: 960px;
 
 #wrapper{
 	max-width: 960px;
-	height: 1000px;
+	height: 900px;
 	margin: 5px;
-}
+	}
 
  #banner {
  	max-width:960px;
 	width: 100%;
  	max-height: 100%;
-	 height: 80%;
+	 height: 100%;
  	z-index: 0;
  	background:url("Bilder/IMG_1306.JPG");
  	background-size: cover;
 	opacity: 0.; 
  	}
 
-
 #banner h2{
+	max-width: 960px;
  	padding-top: 225px;
  	text-align: center;
  	color:#c60505;
@@ -102,3 +102,27 @@ body {
 } 
 
 
+
+#Home_Top h2{
+	max-width: 970px;
+	padding-top: 0px;
+	text-align: left;
+	color: #180999;
+	background-color: white;
+	font-size: 1.5em;
+	font-family: Streetwear;  
+}
+
+
+#Home_Top p{
+	padding-top:20px;
+	color:currentColor;
+	font-size: 1.5em;
+}
+
+#Home_Top a{
+	padding-top:0	px;
+	color:crimson;
+	font-size: 1.5em;
+	font-weight: bold;
+		}
