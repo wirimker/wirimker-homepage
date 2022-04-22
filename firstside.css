@@ -9,22 +9,27 @@
 	font-family: Levenim MT;
 	}
 
-
+/* für Button*/
 .box{
 	width: 600px;
 	height: 50px;
+
 	margin-left: auto;
 	margin-right: auto;
-	
-	
-}
+	}
 
 
 #navigation{
-
+max-width: 960px;
 	width: 100%;
 	height: 150px;
 	background-color: rgba(244, 249, 153, 0.901);
+}
+
+#wrapper{
+	max-width: 960px;
+	width: 95%;
+	margin: 5px;
 }
 
 
@@ -54,7 +59,7 @@ button:hover {
 body {
 	margin: 5px;
 	max-width: 960px;
-	max-width: 95%;
+	max-width: 100%;
 	margin: 5px;
 }
 
@@ -73,4 +78,4 @@ body {
 	margin-right: auto; 
 } 
 
- 	
+
